@@ -1,2 +1,2 @@
-# kdetogglepanelscreenedge
-Toggle Panel Visibility From Screen Edge
+# KDE Toggle Panel From Screen Edge
+KDE Kwin Script - Toggle Panel Visibility From Screen Edge
