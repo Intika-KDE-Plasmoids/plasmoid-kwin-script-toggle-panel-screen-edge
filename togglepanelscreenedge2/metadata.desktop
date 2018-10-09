@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Toggle Panel Screen Edge - Panel 2
+Comment=Toggle Panel Visibility From Screen Edge - Used For Pannel ID 2
+Icon=plasmashell
+Type=Service
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-KWin-Border-Activate=true
+X-KDE-PluginInfo-Author=Intika
+X-KDE-PluginInfo-Email=intika.dev@gmail.com
+X-KDE-PluginInfo-Name=togglepanelscreenedge2
+X-KDE-PluginInfo-Version=0.1
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script
+X-KDE-PluginKeyword=togglepanelscreenedge2
+
